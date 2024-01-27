@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.syncup",
+    "sha256_cert_fingerprints":
+    ["EB:1E:57:9D:3E:4F:97:E2:28:EE:1B:E7:39:97:7A:C6:24:E0:FF:87:B0:44:27:64:FA:3B:D9:53:D7:77:0D:3F"]
+  }
+}]
