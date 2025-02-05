@@ -1,0 +1,21 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "72M6YEBU3N.app.greenlight" ],
+             "components": [
+               {
+                  "/": "/user/*",
+                  "comment": "Matches any URL with a path that starts with /user/."
+               },
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "72M6YEBU3N.app.greenlight" ]
+   },
+    "appclips": {
+        "apps": ["72M6YEBU3N.app.greenlight"]
+    }
+}
