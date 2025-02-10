@@ -11,7 +11,7 @@ Your privacy is important to us. This Privacy Policy explains how we collect, us
 We collect the following types of information:
 
 **2.1 Information You Provide**  
-- Name (only your first name is publicly visible)  
+- Name (only your first name and last initial is publicly visible)  
 - Email address  
 - Profile photo (optional, verified upon onboarding)  
 - Interests and gathering preferences  
